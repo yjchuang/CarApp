@@ -43,7 +43,7 @@ public class Car extends Vehicle
 	@Override
 	public String getDisplayText(String operating)
 	{
-		return "The " + color + " " + model + " is "+ operating + "\n";
+		return "The " + color + " " + model + " "+ operating + "\n";
 		
 	}
 	

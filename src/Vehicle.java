@@ -39,7 +39,7 @@ public abstract class Vehicle {
 	}
 	public Vehicle() {
 		super();
-		// TODO Auto-generated constructor stub
+		
 	}
 
 	
